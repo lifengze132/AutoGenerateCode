@@ -18,3 +18,4 @@ Let me tell you how to do.
 ![img_7.png](img_7.png)
 
 this tool according technology include IDE plugin,,gradle,swing, FreeMarker, JDBC, JAVA etc.
+JDK version is 21,and gradle version is 8.13
